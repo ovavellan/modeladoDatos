@@ -1,0 +1,1 @@
+db.getCollection('aula').find({})
